@@ -1,0 +1,54 @@
+
+.image2 {
+    width: 100px;
+}
+
+.sec1 {
+    background-color: rgb(246, 246, 246);
+}
+
+.image3 {
+    width: 650px;
+    height: 400px;
+}
+
+.image4 {
+    width: 600px;
+}
+
+.sec3 {
+    background-color: rgb(246, 246, 246);
+}
+
+.sec5 {
+    background-color: rgb(246, 246, 246);
+}
+
+.sec7 {
+    background-color: rgb(246, 246, 246);
+}
+
+.sec9 {
+    background-color: rgb(246, 246, 246);
+}
+
+@media (max-width:770px) {
+    nav {
+        padding: 0;
+        align-items: start;
+        text-align: left;
+    }
+
+    .image1 {
+        width: 150px;
+    }
+
+    .image2 {
+        display: none;
+    }
+
+    .btn1 {
+        display: none;
+    }
+
+}
